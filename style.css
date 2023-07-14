@@ -263,4 +263,8 @@ textarea {
         flex-direction: column;
         padding: 10px;
     }
+    footer{
+        flex-direction: column;
+        padding: 10px;
+    }
 }
